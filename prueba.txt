@@ -1,1 +1,4 @@
 Esto es una prueba que estoy haciendo para practicar los conceptos apredidos en el curso profesional de git y github.
+
+1. Ya hice git stash, luego ckecout a otra rama y use pop de nuevo para sacar el trabajo en progreso.
+2. Ahora voy a hacer un rebase, en esta rama de hotfix hay dos commits los cuales deben quedar como punteros en la rama objetivo que es main.
